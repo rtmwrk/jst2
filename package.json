@@ -1,0 +1,30 @@
+{
+  "name": "js-test-hw2",
+  "version": "0.0.1",
+  "description": "this is homework 2 for javascripts testing course",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "^8.49.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "prettier": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rtmwrk/jst2.git"
+  },
+  "keywords": [
+    "javascript",
+    "test",
+    "homework"
+  ],
+  "author": "rtm_wrk rtm_wrk@rambler.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtmwrk/jst2/issues"
+  },
+  "homepage": "https://github.com/rtmwrk/jst2#readme"
+}
